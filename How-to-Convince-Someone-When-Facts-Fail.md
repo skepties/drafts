@@ -38,49 +38,28 @@ This power of belief over evidence is the result of two factors: cognitive disso
 
 이런 증거를 넘어서는 믿음의 힘은 인지부조화와 역화효과라는 두 가지 요인에서 비롯됩니다.
 
-In the classic 1956 book When Prophecy Fails, psychologist Leon Festinger and his co-authors described what happened to a UFO cult when the mother ship failed to arrive at the appointed time.
-
+In the classic 1956 book When Prophecy Fails, psychologist Leon Festinger and his co-authors described what happened to a UFO cult when the mother ship failed to arrive at the appointed time.Instead of admitting error, “members of the group sought frantically to convince the world of their beliefs,” and they made “a series of desperate attempts to erase their rankling dissonance by making prediction after prediction in the hope that one would come true.” Festinger called this cognitive dissonance, or the uncomfortable tension that comes from holding two conflicting thoughts simultaneously.
 1956년에 발간된 책 "예언이 틀렸을 때 (When prophecy fails)"에서 심리학자 레온 페스팅거와 공저자들은 외계인 모선이 예언된 시간에 도착하지 않았을 때 그 예언을 믿언 UFO 신봉자 들에게 벌어진 일을 설명했습니다.
-
-
-Instead of admitting error, “members of the group sought frantically to convince the world of their beliefs,” and they made “a series of desperate attempts to erase their rankling dissonance by making prediction after prediction in the hope that one would come true.”
-
 틀린 것을 인정하는 대신, "그룹의 멤버들은 미친듯이 자신들의 믿음을 세상에 납득시키려고 노력했습니다". 그리고 그들은 "그것들이 실현될지도 모른다는 희망 가운데 다른 예언들을 만들어냄으로써 불편한 부조화를 지우려는 일련의 필사적인 시도들"을 만들어냈습니다.
-
-Festinger called this cognitive dissonance, or the uncomfortable tension that comes from holding two conflicting thoughts simultaneously.
-
 페스팅거는 이것을 인지부조화, 혹은 상반된 생각을 동시에 가짐으로 인해 발생하는 불쾌한 긴장 이라고 불렀습니다.
 
-Two social psychologists, Carol Tavris and Elliot Aronson (a former student of Festinger), in their 2007 book Mistakes Were Made (But Not by Me) document thousands of experiments demonstrating how people spin-doctor facts to fit preconceived beliefs to reduce dissonance.
+Two social psychologists, Carol Tavris and Elliot Aronson (a former student of Festinger), in their 2007 book Mistakes Were Made (But Not by Me) document thousands of experiments demonstrating how people spin-doctor facts to fit preconceived beliefs to reduce dissonance.Their metaphor of the “pyramid of choice” places two individuals side by side at the apex of the pyramid and shows how quickly they diverge and end up at the bottom opposite corners of the base as they each stake out a position to defend.
 
 사회 심리학자 캐롤 태프리스와 (페스팅거의 제자였던) 엘리엇 애런슨은 2007년 그들의 책 "거짓말의 진화 - 자기 정당화의 심리학(Mistakes Were Made (But Not by Me))"에서 사람들이 부조화를 줄이고 선입견에 맞추기 위해 어떻게 사실을 조작하는가를 보여주는 수 천개의 실험을 정리했습니다.
-
-
-Their metaphor of the “pyramid of choice” places two individuals side by side at the apex of the pyramid and shows how quickly they diverge and end up at the bottom opposite corners of the base as they each stake out a position to defend.
-
 그들의 "선택의 피라미드"라는 비유는 피라미드 꼭지점 양쪽의 두 사람이 얼마나 빨리 양쪽으로 나뉘어져서 피라미드 바닥의 양 끝쪽에서 방어를 위한 진지를 구축하는지를 보여줍니다.
 
 
-In a series of experiments by Dartmouth College professor Brendan Nyhan and University of Exeter professor Jason Reifler, the researchers identify a related factor they call the backfire effect “in which corrections actually increase misperceptions among the group in question.”
+In a series of experiments by Dartmouth College professor Brendan Nyhan and University of Exeter professor Jason Reifler, the researchers identify a related factor they call the backfire effect “in which corrections actually increase misperceptions among the group in question.” Why? “Because it threatens their worldview or self-concept.”
 
 다트머스 대학의 브랜든 니한 교수와 엑서터 대학의 제이슨 리플러 교수의 일련의 실험들에서, 연구자들은 "문제에 대한 정정이 실제로는 사람들의 잘못된 생각을 증가시키는" 역화효과라고 불리는 관련된 요인들을 확인했습니다.
+왜일까요? "그것이 그들의 세계관이나 자기 가치관을 위협하기 때문입니다."
 
-Why? “Because it threatens their worldview or self-concept.”
 
-왤까요? "그것이 그들의 세계관이나 자기 가치관을 위협하기 때문입니다."
 
-For example, subjects were given fake newspaper articles that confirmed widespread misconceptions, such as that there were weapons of mass destruction in Iraq.
+For example, subjects were given fake newspaper articles that confirmed widespread misconceptions, such as that there were weapons of mass destruction in Iraq. When subjects were then given a corrective article that WMD were never found, liberals who opposed the war accepted the new article and rejected the old, whereas conservatives who supported the war did the opposite ... and more: they reported being even more convinced there were WMD after the correction, arguing that this only proved that Saddam Hussein hid or destroyed them. In fact, Nyhan and Reifler note, among many conservatives “the belief that Iraq possessed WMD immediately before the U.S. invasion persisted long after the Bush administration itself concluded otherwise.”
 
 예를 들어, 피실험자들에게 이라크에 대량 살상 무기가 있다는 것과 같은 널리 알려진 오해를 확인하는 가짜 신문기사가 주어졌습니다.
-
-When subjects were then given a corrective article that WMD were never found, liberals who opposed the war accepted the new article and rejected the old, whereas conservatives who supported the war did the opposite ... and more: they reported being even more convinced there were WMD after the correction, arguing that this only proved that Saddam Hussein hid or destroyed them.
-
-이제 다시 대량 살상무기가 발견되지 않았다는 정정기사가 피실험자들에게 주어지면, 전쟁에 반대하는 자유주의자(진보주의자)들은 이전의 기사를 버리고 새로운 기사를 받아들이지만 전쟁을 지지하던 보수주의자들은 새로운 기사에 반대하고 오히려 정정기사 이후에 사담 후세인이 대량살상무기를 숨겼거나 파괴했다는 것을 증명하는 것 뿐이라고 주장하며 대량살상무기에 대해서 더 확신하게 되었다고 말합니다.
-
-
-In fact, Nyhan and Reifler note, among many conservatives “the belief that Iraq possessed WMD immediately before the U.S. invasion persisted long after the Bush administration itself concluded otherwise.”
-
-실제로, 니한과 리플러는 많은 보수주의자사이에서  "미국 침공 직전까지도 이라크가 대량살상무기를 보유했다는 믿음은 부시 행정부가 스스로 그렇지 않다는 결론을 내린 후에도 오랬동안 지속되었다"고 말.
+이제 다시 대량 살상무기가 발견되지 않았다는 정정기사가 피실험자들에게 주어지면, 전쟁에 반대하는 자유주의자(진보주의자)들은 이전의 기사를 버리고 새로운 기사를 받아들이지만 전쟁을 지지하던 보수주의자들은 새로운 기사에 반대하고 오히려 정정기사 이후에 사담 후세인이 대량살상무기를 숨겼거나 파괴했다는 것을 증명하는 것 뿐이라고 주장하며 대량살상무기에 대해서 더 확신하게 되었다고 말합니다. 실제로, 니한과 리플러는 많은 보수주의자사이에서  "미국 침공 직전까지도 이라크가 대량살상무기를 보유했다는 믿음은 부시 행정부가 스스로 그렇지 않다는 결론을 내린 후에도 오랬동안 지속되었다"고 말합니다.
 
 If corrective facts only make matters worse, what can we do to convince people of the error of their beliefs? From my experience, 1. keep emotions out of the exchange, 2. discuss, don't attack (no ad hominem and no ad Hitlerum), 3. listen carefully and try to articulate the other position accurately, 4. show respect, 5. acknowledge that you understand why someone might hold that opinion, and 6. try to show how changing facts does not necessarily mean changing worldviews. These strategies may not always work to change people's minds, but now that the nation has just been put through a political fact-check wringer, they may help reduce unnecessary divisiveness.
 
